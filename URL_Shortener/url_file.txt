@@ -1,0 +1,10 @@
+https://example.com/some/long/path
+http://testsite.org/articles/2024/nov/something-interesting
+https://fakeurl.net/user/profile/settings
+https://mockdomain.com/api/v1/resource/12345
+http://dummywebsite.org/shop/product/98765
+https://notreal.co/blog/post-title-slug
+https://placeholder.com/files/document.pdf
+http://fictionalsite.net/photo/gallery/2023
+https://imaginarydomain.org/events/calendar
+http://nowhere.net/random/page/path
